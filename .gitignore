@@ -1,3 +1,4 @@
 .env
 outputNormal.txt
 outputSpecial.txt
+node_modules/
